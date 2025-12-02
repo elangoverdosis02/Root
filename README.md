@@ -25,7 +25,7 @@ apt-get install git -y
 git clone https://github.com/elangoverdosis02/Root.git
 ```
 ```
-cd root
+cd Root
 ```
 ```
 chmod +x main
