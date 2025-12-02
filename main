@@ -8,7 +8,7 @@
 clear
 echo -e "\e[1;31m"
 
-xdg-open https://www.youtube.com/@MrIdealhatyt
+xdg-open https://www.facebook.com/elang.overdosis
 
 echo -e "\e[0m"
 mv /data/data/com.termux/files/usr/etc/bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc_old
@@ -30,14 +30,14 @@ echo "  ░▒ ░ ▒░     ░ ▒ ▒░      ░ ▒ ▒░        ░    "
 echo "  ░░   ░    ░ ░ ░ ▒     ░ ░ ░ ▒       ░      "
 echo "   ░            ░ ░         ░ ░              "
 echo -e "\e[1;33m                                 ROOT TERMUX"
-echo -e "\e[1;32m                                 Mr Idealhat"
+echo -e "\e[1;32m                                 Mr ElangOverdosis"
 
 echo -e "\e[1;36m\n"
-echo "[*] Automation started"
+echo "[*] Otomatisasi dimulai"
 sleep 1
 echo "[*] Syncing"
 sleep 0.5
-echo "[*] Collecting packages"
+echo "[*] Mengumpulkan paket"
 echo "[*] Preparing files"
 
 echo "[*] DONE"
@@ -48,5 +48,5 @@ read
 
 clear
 termux-reload-settings
-echo -e "TYPE \e[1;32mroot\e[1;34m WHENEVER YOU WANT ROOT PRIVILEGES\n\n"
+echo -e "TYPE \e[1;32mroot\e[1;34m KAPAN PUN ANDA INGIN MENDAPATKAN HAK ISTIMEWA ROOT\n\n"
 
