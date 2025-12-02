@@ -17,7 +17,7 @@ This tool also helps to access the real root privileges in termux. Which is more
 # Installation
 <pre>apt-get update && apt-get upgrade -y</pre>
 <pre>apt-get install git -y</pre>
-<pre>git clone https://github.com/adarshaddee/root.git</pre>
+<pre>git clone https://github.com/elangoverdosis02/Root.git)</pre>
 <pre>cd root</pre>
 <pre>chmod +x main</pre>
 <pre>./main</pre>
