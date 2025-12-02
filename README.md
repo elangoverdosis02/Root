@@ -16,22 +16,22 @@ This tool also helps to access the real root privileges in termux. Which is more
 
 # Installation
 ```
-<pre>apt-get update && apt-get upgrade -y</pre>
+apt-get update && apt-get upgrade -y
 ```
 ```
-<pre>apt-get install git -y</pre>
+apt-get install git -y
 ```
 ```
-<pre>git clone https://github.com/elangoverdosis02/Root.git</pre>
+git clone https://github.com/elangoverdosis02/Root.git
 ```
 ```
-<pre>cd root</pre>
+cd root
 ```
 ```
-<pre>chmod +x main</pre>
+chmod +x main
 ```
 ```
-<pre>./main</pre>
+./main
 ```
 
 # Add-ons
